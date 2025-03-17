@@ -2,6 +2,13 @@
 
 This project is an implementation of the Proximal Policy Optimization (PPO) algorithm using PyTorch. It is designed to work with the Minecraft environment provided by MineDojo and integrates Object Detection modules from GroundingDINO to enhance training.
 
+<div align="center">
+
+![](images/spider.gif)
+
+Right side shows the results of OD after RL training. 
+</div>
+
 ## Features
 
 - **PPO Algorithm**: Implementation similar to OpenAI's PPO2.
