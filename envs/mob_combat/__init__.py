@@ -1,0 +1,2 @@
+from .combat_spider import CombatSpiderDenseRewardEnv
+from .combat_zombie import CombatZombieDenseRewardEnv
